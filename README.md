@@ -42,19 +42,19 @@ The production-ready files will be in the `build/` directory.
 
 
 ## Screenshots
-![alt text](<../../Screenshot 2025-01-10 at 2.30.21 PM.png>)
+![alt text](<public/assets/Screenshot 2025-01-10 at 2.30.21 PM.png>)
 
-![alt text](<../../Screenshot 2025-01-10 at 2.30.46 PM.png>)
+![alt text](<public/assets/Screenshot 2025-01-10 at 2.30.46 PM.png>)
 
-![alt text](<../../Screenshot 2025-01-10 at 2.31.16 PM.png>)
+![alt text](<public/assets/Screenshot 2025-01-10 at 2.31.16 PM.png>)
 
-![alt text](<../../Screenshot 2025-01-10 at 2.31.30 PM.png>)
+![alt text](<public/assets/Screenshot 2025-01-10 at 2.31.30 PM.png>)
 
-![alt text](<../../Screenshot 2025-01-10 at 2.31.44 PM.png>)
+![alt text](<public/assets/Screenshot 2025-01-10 at 2.31.44 PM.png>)
 
-![alt text](<../../Screenshot 2025-01-10 at 2.31.56 PM.png>)
+![alt text](<public/assets/Screenshot 2025-01-10 at 2.31.56 PM.png>)
 
-![alt text](<../../Screenshot 2025-01-10 at 2.32.14 PM.png>)
+![alt text](<public/assets/Screenshot 2025-01-10 at 2.32.14 PM.png>)
 
 ### Example Section
 
